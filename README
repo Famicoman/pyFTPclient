@@ -1,0 +1,6 @@
+README
+
+Usage: 
+	python ftpclient.py host logfile port
+	
+Port field is optional. If it is unspecified, it defaults to port 21.
